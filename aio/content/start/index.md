@@ -18,8 +18,8 @@ To help you get started right away, this guide uses a simple ready-made applicat
 ## Create a new project
 
 <h4>
-<live-example name="getting-started-v0" noDownload>Click here to create the ready-made sample project in StackBlitz.</live-example>
-</h4>
+<live-example name="getting-started-v0" noDownload>Click here to create the ready-made sample project in StackBlitz. Once page is loaded, use the <i>fork</i> functionality to keep your updates saved. Otherwise on each refresh of the page your code is dumped.  </live-example>
+</h4> 
 
 <div class="lightbox">
   <img src="generated/images/guide/start/new-app-all.gif" alt="Starter online store app">
